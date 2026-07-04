@@ -1,0 +1,8 @@
+venv/
+.env
+credentials.json
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+test_*.py
